@@ -1,0 +1,19 @@
+/*
+1.Em que ano o modelo relacional de banco de dados foi desenvolvido ?
+R. 1970 - 1972.
+
+2.Quem é considerado o "pai dos bancos de dados relacionais" ?
+R. Edgar Frank Codd.
+
+3.Explique a diferença de um Banco de Dados, um Sistema Gerenciador de Banco de Dados e um Sistema de Banco de Dados ?
+R. Banco de dados é um repositório, local onde armazena dados e SGBD é um software por gerenciar, manipular e fornecer acesso ao banco de dados.
+
+4.Quais são as principais características de um banco de dados ?
+R. Entidade, Dados, informação e conhecimento.
+
+5.Quais são os diferentes níveis de abstração em um banco de dados.
+R. Nível extremo, Nível Conceitual e Nível interno.
+
+6.Liste as vantagens de usar um banco de dados.
+R. Organização, Estrutura, Integridade e Escalabilidade.
+*/
