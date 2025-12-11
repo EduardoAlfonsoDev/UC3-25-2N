@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpLogico" UniversalUnicID="AFFF-5C-8363-48-3F92-B3-AD">
+<DIAGRAMA ID="1" TIPO="tpLogico" UniversalUnicID="ECAC-33-1BD2-30-21AD-D7-D7">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -44,7 +44,7 @@
         <Campos>
             <Campo>
                 <Texto>Cod_produto:</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(3)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -54,7 +54,7 @@
             </Campo>
             <Campo>
                 <Texto>Nome_produto:</Texto>
-                <Tipo>String</Tipo>
+                <Tipo>String(10)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -64,7 +64,7 @@
             </Campo>
             <Campo>
                 <Texto>Preco:</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(9)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -74,7 +74,7 @@
             </Campo>
             <Campo>
                 <Texto>Quant_estoque:</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(3)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -126,7 +126,7 @@
         <Campos>
             <Campo>
                 <Texto>ID_Cliente</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(3)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -136,7 +136,7 @@
             </Campo>
             <Campo>
                 <Texto>Nome_Cliente</Texto>
-                <Tipo>String</Tipo>
+                <Tipo>String(10)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -146,7 +146,7 @@
             </Campo>
             <Campo>
                 <Texto>CPF</Texto>
-                <Tipo>String</Tipo>
+                <Tipo>String(11)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -156,7 +156,7 @@
             </Campo>
             <Campo>
                 <Texto>Data_Nasc</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(8)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -208,7 +208,7 @@
         <Campos>
             <Campo>
                 <Texto>ID_Vende</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(3)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -218,7 +218,7 @@
             </Campo>
             <Campo>
                 <Texto>ID_Cliente</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(3)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -228,7 +228,7 @@
             </Campo>
             <Campo>
                 <Texto>ID_Produto</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(3)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -238,7 +238,7 @@
             </Campo>
             <Campo>
                 <Texto>Data_Venda</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(8)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -248,7 +248,7 @@
             </Campo>
             <Campo>
                 <Texto>Quantidade</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(3)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
