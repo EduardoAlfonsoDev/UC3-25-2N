@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="506E-66-BD9E-3-1C3D-38-DF">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="F1AE-32-1713-C2-678F-63-D6">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -991,9 +991,9 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="149">
-        <Bounds Height="14" Left="1406" Top="1164" Width="110"/>
+        <Bounds Height="14" Left="1406" Top="1164" Width="95"/>
         <DisablePainted Valor="false"/>
-        <Texto>pular_musicas</Texto>
+        <Texto>pular_faixas</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -1020,11 +1020,8 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="149" PontaB="146"/>
         <Pontos>
-            <Ponto Left="1402" Top="1168"/>
+            <Ponto Left="1403" Top="1168"/>
             <Ponto Left="1393" Top="1168"/>
-            <Ponto Left="1393" Top="1141"/>
-            <Ponto Left="1393" Top="1141"/>
-            <Ponto Left="1393" Top="1141"/>
             <Ponto Left="1393" Top="1122"/>
         </Pontos>
     </Ligacao>
@@ -1064,9 +1061,9 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="153">
-        <Bounds Height="14" Left="1206" Top="1158" Width="139"/>
+        <Bounds Height="14" Left="1206" Top="1158" Width="119"/>
         <DisablePainted Valor="false"/>
-        <Texto>nao_pular_musicas</Texto>
+        <Texto>nao_pula_faixas</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -1712,9 +1709,9 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="211">
-        <Bounds Height="14" Left="1974" Top="960" Width="81"/>
+        <Bounds Height="14" Left="1974" Top="960" Width="83"/>
         <DisablePainted Valor="false"/>
-        <Texto>descricao</Texto>
+        <Texto>Atributo_3</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -1741,18 +1738,15 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="211" PontaB="3"/>
         <Pontos>
-            <Ponto Left="1970" Top="964"/>
+            <Ponto Left="1971" Top="964"/>
             <Ponto Left="1961" Top="964"/>
-            <Ponto Left="1961" Top="928"/>
-            <Ponto Left="1961" Top="928"/>
-            <Ponto Left="1961" Top="928"/>
             <Ponto Left="1961" Top="899"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="213">
-        <Bounds Height="14" Left="1962" Top="979" Width="121"/>
+        <Bounds Height="14" Left="1962" Top="979" Width="83"/>
         <DisablePainted Valor="false"/>
-        <Texto>data_publicacao</Texto>
+        <Texto>Atributo_4</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -1779,18 +1773,15 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="213" PontaB="3"/>
         <Pontos>
-            <Ponto Left="1958" Top="983"/>
+            <Ponto Left="1959" Top="983"/>
             <Ponto Left="1949" Top="983"/>
-            <Ponto Left="1949" Top="937"/>
-            <Ponto Left="1949" Top="937"/>
-            <Ponto Left="1949" Top="937"/>
             <Ponto Left="1949" Top="899"/>
         </Pontos>
     </Ligacao>
     <Atributo ID="215">
-        <Bounds Height="14" Left="1942" Top="998" Width="63"/>
+        <Bounds Height="14" Left="1942" Top="998" Width="83"/>
         <DisablePainted Valor="false"/>
-        <Texto>idioma</Texto>
+        <Texto>Atributo_5</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -1817,11 +1808,8 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="215" PontaB="3"/>
         <Pontos>
-            <Ponto Left="1938" Top="1002"/>
+            <Ponto Left="1939" Top="1002"/>
             <Ponto Left="1929" Top="1002"/>
-            <Ponto Left="1929" Top="947"/>
-            <Ponto Left="1929" Top="947"/>
-            <Ponto Left="1929" Top="947"/>
             <Ponto Left="1929" Top="899"/>
         </Pontos>
     </Ligacao>
@@ -1864,9 +1852,9 @@
         </Pontos>
     </Ligacao>
     <Atributo ID="226">
-        <Bounds Height="14" Left="1204" Top="746" Width="78"/>
+        <Bounds Height="14" Left="1204" Top="746" Width="83"/>
         <DisablePainted Valor="false"/>
-        <Texto>endereco</Texto>
+        <Texto>Atributo_1</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -1930,9 +1918,9 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="226" PontaB="228"/>
         <Pontos>
-            <Ponto Left="1280" Top="750"/>
-            <Ponto Left="1301" Top="750"/>
-            <Ponto Left="1301" Top="722"/>
+            <Ponto Left="1284" Top="750"/>
+            <Ponto Left="1304" Top="750"/>
+            <Ponto Left="1304" Top="722"/>
             <Ponto Left="1323" Top="722"/>
         </Pontos>
     </Ligacao>
@@ -1966,9 +1954,9 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="226" PontaB="230"/>
         <Pontos>
-            <Ponto Left="1280" Top="750"/>
-            <Ponto Left="1301" Top="750"/>
-            <Ponto Left="1301" Top="741"/>
+            <Ponto Left="1284" Top="750"/>
+            <Ponto Left="1304" Top="750"/>
+            <Ponto Left="1304" Top="741"/>
             <Ponto Left="1323" Top="741"/>
         </Pontos>
     </Ligacao>
@@ -2002,9 +1990,9 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="226" PontaB="232"/>
         <Pontos>
-            <Ponto Left="1280" Top="750"/>
-            <Ponto Left="1301" Top="750"/>
-            <Ponto Left="1301" Top="760"/>
+            <Ponto Left="1284" Top="750"/>
+            <Ponto Left="1304" Top="750"/>
+            <Ponto Left="1304" Top="760"/>
             <Ponto Left="1323" Top="760"/>
         </Pontos>
     </Ligacao>
@@ -2038,9 +2026,9 @@
         <Largura Valor="1"/>
         <Ligacoes PontaA="226" PontaB="234"/>
         <Pontos>
-            <Ponto Left="1280" Top="750"/>
-            <Ponto Left="1301" Top="750"/>
-            <Ponto Left="1301" Top="779"/>
+            <Ponto Left="1284" Top="750"/>
+            <Ponto Left="1304" Top="750"/>
+            <Ponto Left="1304" Top="779"/>
             <Ponto Left="1323" Top="779"/>
         </Pontos>
     </Ligacao>
